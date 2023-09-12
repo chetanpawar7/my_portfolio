@@ -6,6 +6,8 @@ import { Bio } from '../../data/constants';
 import { Close, CloseRounded } from '@mui/icons-material';
 import { useTheme } from 'styled-components';
 
+
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
   const theme = useTheme()
@@ -30,8 +32,14 @@ const Navbar = () => {
           <NavLink href='#education'>Education</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
+        {/* linkedin tag 👇 is same as github  */}
+          <GitHubButton href={Bio.linkedin} target="_blank">LinkedIn</GitHubButton>
         </ButtonContainer>
+        <ButtonContainer>
+          <GitHubButton href={Bio.github} target="_blank">Github</GitHubButton>
+        </ButtonContainer>
+
+        
         {
           isOpen &&
           <MobileMenu isOpen={isOpen}>
