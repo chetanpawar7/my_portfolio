@@ -202,8 +202,8 @@ export const projects = [
     date: "Mar 2023 - Jun 2023",
     description:
       "Completed this project in 6 months using Python, Django, and ReactJs.This Project like an ecommerce portal . there are four main modules farmer,merchant,shop(krushi kendra), and admin.The farmer and shop are sellers who want to sell products and crops , and the admin has controlledall the operations like deleting products, deleting user, editing and updating , it is like B2B portal.",
-    image:"",
-    tags: ["Python", "Django", "Reactjs", "DjangoRestFramework", "Axios", "PostgreSql"],
+    image:"https://raw.githubusercontent.com/chetanpawar7/Krushi-Mitra/development/krushimitra%20home.png",
+    tags: ["Python", "Django", "Reactjs", "Axios", "PostgreSql","DjangoRestframework"],
     category: "web app",
     github: "https://github.com/chetanpawar7/",
     webapp: "",
@@ -227,7 +227,7 @@ export const projects = [
     date: "Sep 2022 - Nov 2022",
     description:
       "Utilising Python django & Postgresql, I finished this project in 3 months .This system has two main modules customer and admin .Other modules like cart, payment, orders, etc. WithRazorpay payment integration",
-    image:"",
+    image:"https://raw.githubusercontent.com/chetanpawar7/Swiftcart_django/main/swiftcart%20home.png",
     tags: ["Python", "Django", "Html", "Css", "JavaScript", "PostgreSql"],
     category: "web app",
     github: "https://github.com/chetanpawar7/Swiftcart_django/",
