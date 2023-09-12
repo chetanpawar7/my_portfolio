@@ -162,7 +162,7 @@ export const education = [
     school: "KK Wagh Institute of Engineering and Research, Nashik",
     date: "Dec 2021 - Jun 2023",
     grade: "7.6 CGPA",
-    desc: "I am recently passout a Master's degree in Computer Applications from KK Wagh Institute of Engineering and Research, Nashik. I have completed 4 semesters and have a CGPA of 7.6 CGPA. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "Recently Passout a Master's degree in Computer Applications from KK Wagh Institute of Engineering and Research, Nashik. I have completed 4 semesters and have a CGPA of 7.6 CGPA. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Master of Computer Application - MCA, Computer Applications and Engineering",
   },
   {
@@ -171,7 +171,7 @@ export const education = [
     school: "SMT.S.M. Agrawal Institute of Management , Chalisgaon",
     date: "July 2018 - Aug 2021",
     grade: "9.2 CGPA",
-    desc: "I completed my Bacherlors degree in BCA -(Bachelors of Computer Applications) from SMT.S.M. Agrawal Institute of Management,Chalisgaon .",
+    desc: "Completed My Bacherlors degree in BCA -(Bachelors of Computer Applications) from SMT.S.M. Agrawal Institute of Management,Chalisgaon .",
     degree: "Bachelors of Computer Applications - BCA",
   },
   {
@@ -180,7 +180,7 @@ export const education = [
     school: "KVN Jr.College,Nashik",
     date: "Jun 2017 - Jun 2018",
     grade: "68.31%",
-    desc: "I completed my class 12 education in Science stream from KVN Jr.College,Nashik",
+    desc: "Completed my class 12 education in Science stream from KVN Jr.College,Nashik",
     degree: "HSC, Class 12 ",
   },
   {
@@ -189,7 +189,7 @@ export const education = [
     school: "JMV Secondary and Higher Secondary School , Londhe-Chalisgaon",
     date: "Jun 2015 - Jun 2016",
     grade: "85.80%",
-    desc: "I completed my class 10 education from JMV Secondary and Higher Secondary School , Londhe-Chalisgaon",
+    desc: "Completed my class 10 education from JMV Secondary and Higher Secondary School , Londhe-Chalisgaon",
     degree: "SSC, Class 10 ",
   },
 ];
