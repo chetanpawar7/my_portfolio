@@ -4,6 +4,7 @@ export const Bio = {
     "Python Developer",
     "Backend Developer",
     "Django Developer",
+    "ReactJs Developer",
     "Programmer",
   ],
   description:
@@ -109,6 +110,11 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
+        name: "Vercel",
+        image:
+          "https://logowik.com/content/uploads/images/vercel1868.jpg",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -127,19 +133,18 @@ export const experiences = [
   {
     id: 0,
     img: "https://assets.static-upwork.com/org-logo/425203163977814016?date=1694512530214",
-    role: "Python-Django| Reactjs Developer Intern",
+    role: "Python-Django| ReactJs Developer Intern",
     company: "Augustcode Infotech Pvt.Ltd.",
     date: "Jan 2023 - July 2023",
-    desc: "Working as a Fullstack Developer Intern -Python, Django and ReactJS",
+    desc: "Working as a Fullstack Developer Intern - Python-Django and ReactJS Developer . I contributed to developed Internship project 'Krushi-Mitra' Web Application.",
     skills: [
       "Python",
       "Django",
       "AWS",
       "EC2",
-      "Reactjs",
+      "ReactJs",
       "html5",
       "JavaScript",
-
     ],
     doc: "",
   },
@@ -176,7 +181,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://www.kvnacs.org/_00_KVNACSNASHIK_DC/_02_Images/_01_Org_Images/KVNACSNASHIK_Logo_201989_46RKV4.bmp",
+    img: "https://static.vecteezy.com/system/resources/previews/008/040/410/non_2x/school-logo-design-template-free-vector.jpg",
     school: "JMV Secondary and Higher Secondary School , Londhe-Chalisgaon",
     date: "Jun 2015 - Jun 2016",
     grade: "85.80%",
