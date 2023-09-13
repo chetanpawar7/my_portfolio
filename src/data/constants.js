@@ -127,7 +127,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://assets.static-upwork.com/org-logo/425203163977814016?date=1694512530214",
-    role: "Fullstack Developer Intern",
+    role: "Python-Django| Reactjs Developer Intern",
     company: "Augustcode Infotech Pvt.Ltd.",
     date: "Jan 2023 - July 2023",
     desc: "Working as a Fullstack Developer Intern -Python, Django and ReactJS",
