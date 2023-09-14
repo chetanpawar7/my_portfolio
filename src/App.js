@@ -14,6 +14,8 @@ import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import Certificates from "./components/Certificates/Certificates.js";
+import Certidetails from "./components/CertificateDetails/Certidetails";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -29,7 +31,9 @@ const Wrapper = styled.div`
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
+  const [openModal2, setOpenModal2] = useState({ state: false, certificate: null });
   console.log(openModal)
+  console.log(openModal2)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router >
@@ -43,11 +47,15 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
+            <Certificates openModal2={openModal2} setOpenModal2={setOpenModal2}/>
             <Contact />
           </Wrapper>
           <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
+          },
+          {openModal2.state &&
+            <Certidetails openModal2={openModal2} setOpenModal2={setOpenModal2} />
           }
         </Body>
       </Router>
