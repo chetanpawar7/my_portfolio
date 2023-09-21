@@ -8,7 +8,7 @@ const certificates =[
     {
         id: 0,
         title :"Python Essential1",
-        description :'by Cisco Network Certificate',
+        description :'by Cisco Networking Academy',
         image:'https://media.licdn.com/dms/image/D4D22AQEDvAZe8KBtUw/feedshare-shrink_2048_1536/0/1692527698042?e=1697673600&v=beta&t=aMadpsYhjBvGPzqigbY5Q02eobjANjil0XQaa4ZhI84',
         tags:['python','oops'],
         link:'https://www.credly.com/badges/5c620add-e166-409e-b0bf-b690419aa809/linked_in_profile'
