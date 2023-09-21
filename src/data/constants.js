@@ -60,7 +60,7 @@ export const skills = [
       {
         name: "C++",
         image:
-          "C://Users/cpawa/OneDrive/Desktop/portfolio/chetan_pawar_portfolio/public/c++logo.png",
+          ".public/c++logo.png",
       },
       {
         name: "MySQL",
