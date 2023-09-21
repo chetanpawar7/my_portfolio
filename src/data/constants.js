@@ -58,9 +58,9 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
-        name: "Java",
+        name: "C++",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
       },
       {
         name: "MySQL",
@@ -134,16 +134,18 @@ export const experiences = [
     id: 0,
     img: "https://assets.static-upwork.com/org-logo/425203163977814016?date=1694512530214",
     role: "Python-Django| ReactJs Developer Intern",
-    company: "Augustcode Infotech Pvt.Ltd.",
+    company: "August Infotech Pvt.Ltd.Surat,Gujarat",
     date: "Jan 2023 - July 2023",
-    desc: "Working as a Fullstack Developer Intern - Python-Django and ReactJS Developer . I contributed to developed Internship project 'Krushi-Mitra' Web Application.",
+    desc: "Accomplished Internship having Good experience and Knowledge, Working as a Fullstack developer Intern developed a 'Krushi Mitra web app' and also Collaborated with Frontend team and Testing team.",
     skills: [
       "Python",
       "Django",
+      "Django Rest Framework",
       "AWS",
       "EC2",
       "ReactJs",
       "html5",
+      "CSS",
       "JavaScript",
     ],
     doc: "",
