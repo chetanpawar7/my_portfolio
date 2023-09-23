@@ -33,7 +33,7 @@ const certificates =[
         id: 3,
         title :"Css",
         description :'by HackerRank',
-        image:'images/css_cert.jpg',
+        image:'/images/css_cert.jpg',
         tags:['Css'],
         link:'https://www.hackerrank.com/certificates/591d598e78f5'
     }
