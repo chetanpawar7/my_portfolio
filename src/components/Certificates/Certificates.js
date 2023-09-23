@@ -25,7 +25,7 @@ const certificates =[
         id: 2,
         title :"Sql",
         description :'by HackerRank',
-        image:'https://media.licdn.com/dms/image/D4D2DAQGKVDQJ9IdgbQ/profile-treasury-image-shrink_800_800/0/1694671295364?e=1695326400&v=beta&t=NZUVvKmluJ75l94mKfxi2P-3sl4j8D1Nt7DEuMR1nIE',
+        image:'/images/sql_cert.jpg',
         tags:['Sql','Database'],
         link:'https://www.hackerrank.com/certificates/fd9ca4ecab23'
     },
@@ -33,7 +33,7 @@ const certificates =[
         id: 3,
         title :"Css",
         description :'by HackerRank',
-        image:'https://media.licdn.com/dms/image/D4D2DAQGSWsi24F_cWg/profile-treasury-image-shrink_800_800/0/1694671234872?e=1695326400&v=beta&t=1z4sKMQJU6MWhfLCGym2l7HGN8-K-n3Huu2mIT70vc4',
+        image:'/images/css_cert.jpg',
         tags:['Css'],
         link:'https://www.hackerrank.com/certificates/591d598e78f5'
     }
