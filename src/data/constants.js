@@ -63,6 +63,11 @@ export const skills = [
           "https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png",
       },
       {
+        name: "PHP",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+      },
+      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -148,7 +153,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "",
+    doc: "https://media.licdn.com/dms/image/D4D2DAQGrP_vAz2pURg/profile-treasury-image-shrink_1280_1280/0/1695611307695?e=1696219200&v=beta&t=NUC4mrYVU4kI_lr3Az_9fxnDBY3aWtWHd-jk2kwJND8",
   },
   
 ];
@@ -222,13 +227,33 @@ export const projects = [
   {
     id: 1,
     title: "Swiftcart-ecommerce Web Application",
-    date: "Sep 2022 - Nov 2022",
+    date: "Oct 2022 - Dec 2022",
     description:
       "Utilising Python django & Postgresql, I finished this project in 3 months .This system has two main modules customer and admin .Other modules like cart, payment, orders, etc. WithRazorpay payment integration",
     image:"https://raw.githubusercontent.com/chetanpawar7/Swiftcart_django/main/swiftcart%20home.png",
     tags: ["Python", "Django", "Html", "Css", "JavaScript", "PostgreSql"],
     category: "web app",
     github: "https://github.com/chetanpawar7/Swiftcart_django/",
+    webapp: "",
+    member: [
+      {
+        name: "Chetan Pawar",
+        img: "https://avatars.githubusercontent.com/u/104443332?s=400&u=cf138492d158deedd197548c7d49a62b5bd5707e&v=4",
+        linkedin: "www.linkedin.com/in/chetanpawar07",
+      },
+     
+    ],
+  },
+  {
+    id: 2,
+    title: "Temple Management System",
+    date: "July 2022 - Aug 2022",
+    description:
+      "Utilising PHP & MYsql, I finished this project in 2 months .This system has two main modules Devotees and admin. this project provide facilities for devotees who want take Darshan via tickit booking.Its like tickit booking System.",
+    image:"https://raw.githubusercontent.com/chetanpawar7/Temple-Management-System/main/Homeimg.png",
+    tags: ["PHP", "MYSQL", "Html", "Css", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/chetanpawar7/Temple-Management-System",
     webapp: "",
     member: [
       {

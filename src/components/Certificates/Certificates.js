@@ -25,7 +25,7 @@ const certificates =[
         id: 2,
         title :"Sql",
         description :'by HackerRank',
-        image:'/images/sql_cert.jpg',
+        image:'https://media.licdn.com/dms/image/D4D2DAQGKVDQJ9IdgbQ/profile-treasury-image-shrink_800_800/0/1694671295364?e=1696215600&v=beta&t=X51ivqqgs9dfC3O4wz3HtcFGWJMtMGH99T7NmDofpJk',
         tags:['Sql','Database'],
         link:'https://www.hackerrank.com/certificates/fd9ca4ecab23'
     },
@@ -33,14 +33,30 @@ const certificates =[
         id: 3,
         title :"Css",
         description :'by HackerRank',
-        image:'/images/css_cert.jpg',
+        image:'https://media.licdn.com/dms/image/D4D2DAQGSWsi24F_cWg/profile-treasury-image-shrink_800_800/0/1694671234872?e=1696215600&v=beta&t=JYAMfSyuWqaDst8FldrDuw8f1MH51pugmotMBf5U6QU',
         tags:['Css'],
         link:'https://www.hackerrank.com/certificates/591d598e78f5'
+    },
+    {
+        id: 4,
+        title :"C++",
+        description :'by Spoken Tutorial',
+        image:'https://media.licdn.com/dms/image/D4D2DAQH3C6ZU1wvAjA/profile-treasury-image-shrink_800_800/0/1695611444055?e=1696219200&v=beta&t=aVXa2QjVXwusiNrHe1b1NIPSXOLD3qPeDVSYeS-cZro',
+        tags:['C++,OOPS'],
+        link:''
+    },
+    {
+        id: 5,
+        title :"PHP & MYSQL",
+        description :'by Spoken Tutorial',
+        image:'https://media.licdn.com/dms/image/D4D2DAQGf0vrPde7FQQ/profile-treasury-image-shrink_800_800/0/1695611515211?e=1696219200&v=beta&t=VGU7ZzG00MEQVZc08lci2rqAdfafNvqR1qVFrf7C950',
+        tags:['PHP,MYSQL'],
+        link:''
     }
 ]
 function Certificates({openModal2,setOpenModal2}) {
     const [toggle, setToggle] = useState('all');
-
+    
   return (
     <>
     <Container id="certificates">
