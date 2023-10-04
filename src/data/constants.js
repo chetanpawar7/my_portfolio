@@ -154,7 +154,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQGrP_vAz2pURg/profile-treasury-image-shrink_1280_1280/0/1695611307695?e=1696219200&v=beta&t=NUC4mrYVU4kI_lr3Az_9fxnDBY3aWtWHd-jk2kwJND8",
+    doc: "https://github.com/chetanpawar7/my_portfolio/blob/main/public/Photos/Intern.jpeg?raw=true",
   },
   
 ];
