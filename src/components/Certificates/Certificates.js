@@ -25,7 +25,7 @@ const certificates =[
         id: 2,
         title :"Sql",
         description :'by HackerRank',
-        image:'https://media.licdn.com/dms/image/D4D2DAQGKVDQJ9IdgbQ/profile-treasury-image-shrink_800_800/0/1694671295364?e=1696215600&v=beta&t=X51ivqqgs9dfC3O4wz3HtcFGWJMtMGH99T7NmDofpJk',
+        image:'https://drive.google.com/file/d/1M4zlR0R-cLRQH8SaG6GyThyXYiG1sCa4/view?usp=drive_link',
         tags:['Sql','Database'],
         link:'https://www.hackerrank.com/certificates/fd9ca4ecab23'
     },
