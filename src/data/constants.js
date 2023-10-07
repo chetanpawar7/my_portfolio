@@ -11,7 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/chetanpawar7/",
-  resume:"https://drive.google.com/file/d/1FPIoDlLsCOEAwOE09_jcnLIJGznA1V52/view?usp=drive_link",
+  resume:"https://drive.google.com/file/d/1NgiZ7r48FD_RPFLYo6ejlWdzMlOAG4yt/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/chetanpawar07/",
   twitter: "",
   insta: "https://www.instagram.com/its.a_r_n_a_v/",
